@@ -64,7 +64,7 @@ printf("numero de ponto turisticos: ");
 scanf("%d", &numero2);
 
 
-printf("Dados da Carta 01:");
+printf("Dados da Carta 01:\n");
 printf("O estado1 é: %s\n", estado1);
 printf("O codigo1 é: %s\n", codigo1);
 printf("A cidade1 é: %s\n", cidade1);
@@ -75,10 +75,10 @@ printf("O numero1 é:%d\n", numero1);
 
 printf("*-------------------------------------*\n");
 
-printf("Dados da Carta 02:");
-printf("O estado2 é: %s", estado2);
-printf("O codigo2 é: %s", codigo2);
-printf("A cidade2 é: %s", cidade2);
+printf("Dados da Carta 02:\n");
+printf("O estado2 é: %s\n", estado2);
+printf("O codigo2 é: %s\n", codigo2);
+printf("A cidade2 é: %s\n", cidade2);
 printf("A populacao2 é: %d\n", populacao2);
 printf("A area2 é: %f\n", area2);
 printf("O pib2 é: %f\n", pib2);
